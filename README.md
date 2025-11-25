@@ -14,3 +14,6 @@ How to use:
 If you don't want to be asked for your sudo password everytime. 
 Add this to your sudoers file:
 <user> ALL=(ALL) NOPASSWD: /usr/bin/nordvpn
+
+
+If done right it should be a 1 click solution through steam
