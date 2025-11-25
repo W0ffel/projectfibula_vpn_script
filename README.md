@@ -8,5 +8,5 @@ How to use:
 2. Add Tibia.exe from project fibula folder to steam library.
 3. Open game properties in steam
 4. Go to compatibility tab and select your Proton version of choice
-5. Go to shortcut tab and set launch options to the game path followed by %command%
+5. Go to shortcut tab and set launch options to the path to the script followed by: %command%
 7. Enjoy Project Fibula :) 
