@@ -10,3 +10,7 @@ How to use:
 4. Go to compatibility tab and select your Proton version of choice
 5. Go to shortcut tab and set launch options to the path to the script followed by: %command%
 7. Enjoy Project Fibula :) 
+
+If you don't want to be asked for your sudo password everytime. 
+Add this to your sudoers file:
+<user> ALL=(ALL) NOPASSWD: /usr/bin/nordvpn
